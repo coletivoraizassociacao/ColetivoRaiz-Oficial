@@ -1,0 +1,36 @@
+COLETIVO RAIZ — SITE INSTITUCIONAL
+
+Arquivos:
+- index.html: site responsivo em português brasileiro.
+- logo-coletivo-raiz.jpg: logo oficial enviada pelo coletivo (usada no cabeçalho).
+- LEIA-ME.txt: instruções.
+
+PRÉ-VISUALIZAÇÃO
+Extraia o ZIP e abra index.html no navegador. Mantenha logo-coletivo-raiz.jpg na mesma pasta de index.html.
+
+PUBLICAR NO GITHUB PAGES
+1. Entre no GitHub e crie um repositório público, por exemplo: coletivo-raiz-site.
+2. Envie index.html e logo-coletivo-raiz.jpg para a raiz do repositório (Add file > Upload files).
+3. Clique em Settings > Pages.
+4. Em Build and deployment, escolha Deploy from a branch; selecione a branch main e a pasta /(root), e salve.
+5. Aguarde a publicação. O GitHub mostrará o endereço gratuito do site na própria tela Pages.
+
+PIX
+A chave Pix CNPJ informada pelo coletivo foi inserida: 58.200.046/0001-34.
+Antes de divulgar, confira se o CNPJ está cadastrado como chave Pix e confirme o nome do beneficiário exibido no banco. O site não processa pagamentos: apenas exibe a chave e oferece um botão para copiá-la.
+
+ANTES DA PUBLICAÇÃO
+- Confirme todos os dados institucionais e de impacto.
+- Acrescente telefone/WhatsApp e e-mail institucional se desejar.
+- Confirme o Instagram oficial.
+- Use imagens de crianças apenas com autorização adequada.
+
+AJUSTES DESTA VERSÃO
+- Removida a logo em destaque no começo do conteúdo; ela permanece no canto superior esquerdo.
+- Botão principal do início e botão superior agora levam à seção da chave Pix, com espaço para o cabeçalho fixo.
+
+AJUSTE ADICIONAL
+- O segundo botão de apoio e o botão principal do bloco de chamada agora direcionam para a seção da chave Pix.
+
+AJUSTE DESTA VERSÃO
+- Removido somente o cartão 'Faça uma doação' da seção 'Junte-se a nós'. Os demais cartões e a seção separada da chave Pix foram mantidos.
